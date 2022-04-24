@@ -1,0 +1,13 @@
+Car,Camley,E1R00,Toyota, Diesel,70.0,15.15,Obada,1000A, Jenin, 0599987987, 12-11-2010, 5
+Car,Aqua,EF,Nissan, Gasoline , 40.2, 40.0, Karam, 1001A, Ramallah, 0599654654, 14-12-2016, 5
+Car,Sienna,S50,Nissan, Hybrid, 26.0, 30.0, Mohammad, 1002A, Ramallah, 0599321321, 14-4-2015, 4
+Car,Aqua,EE0,Nissan, Hgfybrid , 36.0, 17.0, Anan, 1003B, Hebron, 0599963963, 16-12-2014, 5
+MiniVan,Camley,A4,Toyota, Gasoline ,75.0,9.0, Yasin, 1002D , Nablus, 0599852852,29-7-2017,8,true
+MiniVan,Sienna,	D5,Nissan, Hybrid ,55.8,7.8, Jehad, 1005E , Nablus, 0599741741,2-7-2020,7,true
+MiniVan,Odyssey,SWW500,Honda, Diesel , 56.0,11.0,Khaled,1006D, Jenin, 05987654,1-12-2011, 8,false
+MiniVan,Odyssey,S500,Honda, gf , 59.0,11.0,Mahmoud,1007E, Jenin, 0597321654,3-12-2007, 7,true
+MiniVan,Presage,BX5000,Nissan, Gasoline ,60.0,7.0,Shaher,1001B, Hebron, 0592929292,11-9-2013, 7,false
+Truck,Tundra,ED00,Toyota,Diesel ,110.0,7.6,Sami, 1005A, Jenin, 0599999999,7-5-2005, 5,300
+Truck,Aqua,GE500,Honda, Gasoline,90.0,9.2,Rami, 1005B, Nablus, 0598888888,4-7-2002, 6,310
+Truck,Tundra,5D00,Toyota,Hybrid,70.0,7.2,Sami, 1009C, Jenin, 0599777777,13-9-2000, 5,280
+Truck,Ridgeline,DUG700,Honda,gf,83.279,7.23,Waleed,1016B, Ramallah, 0597979797,11-1-2002, 5,390
